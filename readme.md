@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamran Zafar</h1>
 <h3 align="center">A passionate developer working in Flutter | Javascript | PHP</h3>
 
+<img align="right" alt="coding" width="420" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*s2ivt9cecdqsXvts.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranzafar4343&label=Profile%20views&color=0e75b6&style=flat" alt="kamranzafar4343" /> </p>
 
 - 🔭 I’m currently working on [Cinema Ticket Booking](https://github.com/kamranzafar4343/MovieTicketBookingPractice)
